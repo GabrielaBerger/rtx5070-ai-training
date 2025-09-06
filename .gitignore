@@ -1,0 +1,39 @@
+# PROTECT ALL SECRETS
+*.py
+*.ipynb
+*.pth
+*.pt
+*.bin
+*.safetensors
+*.json
+*.jsonl
+*.txt
+
+# Model files
+WES_VICTORY_SUCCESS/
+wes_*/
+models/
+checkpoints/
+outputs/
+
+# Training data - CONFIDENTIAL
+data/
+datasets/
+personal_memories/
+conversations/
+chats/
+
+# Logs
+*.log
+logs/
+debug/
+
+# Private notes
+PRIVATE/
+SECRET/
+notes.md
+
+# Keep only public documentation
+!README.md
+!PROOF.md
+!LICENSE
