@@ -15,7 +15,6 @@ I've developed a proprietary method that successfully enables AI training on RTX
 - ✅ Successfully trained AI models
 - ✅ Stable training with loss convergence
 - ✅ Optimized for 96GB RAM systems
-- ✅ 18-core CPU utilization
 - ✅ Professional-grade results
 
 ### 💼 Commercial Services Available
